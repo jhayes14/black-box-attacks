@@ -3,6 +3,8 @@ Comparison of gradient estimation techniques for black-box adversarial examples
 
 This is a fork of https://github.com/labsix/limited-blackbox-attacks
 
+Link to results: http://www.homepages.ucl.ac.uk/~ucabaye/papers/black_box_attacks.pdf
+
 Choices of gradient estimation are: `NES`, `RDSA`, `SPSA`, `SPSA (1-sided)`
 
 To run:
